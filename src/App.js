@@ -23,8 +23,8 @@ function App() {
       setTodos(todoLocal);
     }
 
-  getLocalTodos();
   }
+  getLocalTodos();
 }, []);
 
   //USE EFFECT
