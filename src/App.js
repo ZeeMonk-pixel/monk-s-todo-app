@@ -22,8 +22,8 @@ function App() {
       let todoLocal = JSON.parse(localStorage.getItem('todos'));
       setTodos(todoLocal);
     }
-
   }
+
   getLocalTodos();
 }, []);
 
