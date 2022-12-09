@@ -68,7 +68,7 @@ form button:hover {
 .trash-btn,
 .complete-btn {
   background: #ff6f47;
-  color: white;
+  color: rgb(237, 229, 229);
   border: none;
   padding: 1rem;
   cursor: pointer;
